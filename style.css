@@ -408,4 +408,7 @@ h1 {
   .header {
     justify-content: space-between;
   }
+  .header__logo {
+    padding-left: .8rem;
+  }
 }
